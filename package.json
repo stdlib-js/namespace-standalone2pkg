@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/namespace-standalone2pkg",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Return the internal package name associated with a provided standalone package name.",
   "license": "Apache-2.0",
   "author": {
