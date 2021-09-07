@@ -197,6 +197,22 @@ The data files (databases) are licensed under an [Open Data Commons Public Domai
 
 <!-- </license> -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/namespace/alias2standalone`][@stdlib/namespace/alias2standalone]: return the standalone package name associated with a specified alias.
+-   [`@stdlib/namespace/pkg2alias`][@stdlib/namespace/pkg2alias]: return the alias associated with a specified package name.
+-   [`@stdlib/namespace/pkg2standalone`][@stdlib/namespace/pkg2standalone]: return the standalone package name associated with a provided internal package name.
+
+</section>
+
+<!-- /.related -->
+
 <!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
 
 
@@ -252,6 +268,16 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [cc0]: https://creativecommons.org/publicdomain/zero/1.0
 
 [apache-license]: https://www.apache.org/licenses/LICENSE-2.0
+
+<!-- <related-links> -->
+
+[@stdlib/namespace/alias2standalone]: https://github.com/stdlib-js/namespace-alias2standalone
+
+[@stdlib/namespace/pkg2alias]: https://github.com/stdlib-js/namespace-pkg2alias
+
+[@stdlib/namespace/pkg2standalone]: https://github.com/stdlib-js/namespace-pkg2standalone
+
+<!-- </related-links> -->
 
 </section>
 
