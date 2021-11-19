@@ -20,7 +20,7 @@ limitations under the License.
 
 # standalone2pkg
 
-[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] [![dependencies][dependencies-image]][dependencies-url]
+[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
 
 > Return the internal package name associated with a provided standalone package name.
 
@@ -253,8 +253,12 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/namespace-standalone2pkg/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/namespace-standalone2pkg?branch=main
 
+<!--
+
 [dependencies-image]: https://img.shields.io/david/stdlib-js/namespace-standalone2pkg.svg
 [dependencies-url]: https://david-dm.org/stdlib-js/namespace-standalone2pkg/main
+
+-->
 
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
 [chat-url]: https://gitter.im/stdlib-js/stdlib/
