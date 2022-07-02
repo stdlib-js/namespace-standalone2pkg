@@ -63,7 +63,9 @@ If no recognized module system is present, access bundle contents via the global
 ```html
 <script type="text/javascript">
 (function () {
+(function () {
     window.standalone2pkg;
+})();
 })();
 </script>
 ```
@@ -116,6 +118,7 @@ var v = standalone2pkg( '@stdlib/unrecognized_alias_beep_boop_bop_bip' );
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/namespace-standalone2pkg@umd/browser.js"></script>
 <script type="text/javascript">
 (function () {
+(function () {
 
 var list;
 var len;
@@ -133,6 +136,7 @@ for ( i = 0; i < 100; i++ ) {
     console.log( 'standalone: %s. pkg: %s.', pkg, standalone2pkg( pkg ) );
 }
 
+})();
 })();
 </script>
 </body>
@@ -249,11 +253,11 @@ Copyright &copy; 2016-2022. The Stdlib [Authors][stdlib-authors].
 
 <!-- <related-links> -->
 
-[@stdlib/namespace/alias2standalone]: https://github.com/stdlib-js/namespace-alias2standalone/tree/umd
+[@stdlib/namespace/alias2standalone]: https://github.com/stdlib-js/namespace-alias2standalone/tree/umd/tree/umd
 
-[@stdlib/namespace/pkg2alias]: https://github.com/stdlib-js/namespace-pkg2alias/tree/umd
+[@stdlib/namespace/pkg2alias]: https://github.com/stdlib-js/namespace-pkg2alias/tree/umd/tree/umd
 
-[@stdlib/namespace/pkg2standalone]: https://github.com/stdlib-js/namespace-pkg2standalone/tree/umd
+[@stdlib/namespace/pkg2standalone]: https://github.com/stdlib-js/namespace-pkg2standalone/tree/umd/tree/umd
 
 <!-- </related-links> -->
 
