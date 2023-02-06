@@ -216,9 +216,9 @@ The data files (databases) are licensed under an [Open Data Commons Public Domai
 
 ## See Also
 
--   <span class="package-name">[`@stdlib/namespace/alias2standalone`][@stdlib/namespace/alias2standalone]</span><span class="delimiter">: </span><span class="description">return the standalone package name associated with a specified alias.</span>
--   <span class="package-name">[`@stdlib/namespace/pkg2alias`][@stdlib/namespace/pkg2alias]</span><span class="delimiter">: </span><span class="description">return the alias associated with a specified package name.</span>
--   <span class="package-name">[`@stdlib/namespace/pkg2standalone`][@stdlib/namespace/pkg2standalone]</span><span class="delimiter">: </span><span class="description">return the standalone package name associated with a provided internal package name.</span>
+-   <span class="package-name">[`@stdlib/namespace-alias2standalone`][@stdlib/namespace/alias2standalone]</span><span class="delimiter">: </span><span class="description">return the standalone package name associated with a specified alias.</span>
+-   <span class="package-name">[`@stdlib/namespace-pkg2alias`][@stdlib/namespace/pkg2alias]</span><span class="delimiter">: </span><span class="description">return the alias associated with a specified package name.</span>
+-   <span class="package-name">[`@stdlib/namespace-pkg2standalone`][@stdlib/namespace/pkg2standalone]</span><span class="delimiter">: </span><span class="description">return the standalone package name associated with a provided internal package name.</span>
 
 </section>
 
@@ -280,7 +280,7 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 
 [cli-section]: https://github.com/stdlib-js/namespace-standalone2pkg#cli
 [cli-url]: https://github.com/stdlib-js/namespace-standalone2pkg/tree/cli
-[main-url]: https://github.com/stdlib-js/namespace-standalone2pkg
+[@stdlib/namespace-standalone2pkg]: https://github.com/stdlib-js/namespace-standalone2pkg/tree/main
 
 [umd]: https://github.com/umdjs/umd
 [es-module]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules
