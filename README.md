@@ -52,6 +52,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import standalone2pkg from 'https://cdn.jsdelivr.net/gh/stdlib-js/namespace-standalone2pkg@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/namespace-standalone2pkg/tags). For example,
+
+```javascript
 import standalone2pkg from 'https://cdn.jsdelivr.net/gh/stdlib-js/namespace-standalone2pkg@v0.1.0-deno/mod.js';
 ```
 
@@ -97,7 +102,7 @@ var v = standalone2pkg( '@stdlib/unrecognized_alias_beep_boop_bop_bip' );
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-discrete-uniform@deno/mod.js';
 import aliases from 'https://cdn.jsdelivr.net/gh/stdlib-js/namespace-aliases@deno/mod.js';
 import alias2standalone from 'https://cdn.jsdelivr.net/gh/stdlib-js/namespace-alias2standalone@deno/mod.js';
-import standalone2pkg from 'https://cdn.jsdelivr.net/gh/stdlib-js/namespace-standalone2pkg@v0.1.0-deno/mod.js';
+import standalone2pkg from 'https://cdn.jsdelivr.net/gh/stdlib-js/namespace-standalone2pkg@deno/mod.js';
 
 var list;
 var len;
