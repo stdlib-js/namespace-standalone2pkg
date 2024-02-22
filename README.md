@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import standalone2pkg from 'https://cdn.jsdelivr.net/gh/stdlib-js/namespace-standalone2pkg@deno/mod.js';
+import standalone2pkg from 'https://cdn.jsdelivr.net/gh/stdlib-js/namespace-standalone2pkg@v0.2.1-deno/mod.js';
 ```
 
 #### standalone2pkg( pkg )
@@ -97,7 +97,7 @@ var v = standalone2pkg( '@stdlib/unrecognized_alias_beep_boop_bop_bip' );
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-discrete-uniform@deno/mod.js';
 import aliases from 'https://cdn.jsdelivr.net/gh/stdlib-js/namespace-aliases@deno/mod.js';
 import alias2standalone from 'https://cdn.jsdelivr.net/gh/stdlib-js/namespace-alias2standalone@deno/mod.js';
-import standalone2pkg from 'https://cdn.jsdelivr.net/gh/stdlib-js/namespace-standalone2pkg@deno/mod.js';
+import standalone2pkg from 'https://cdn.jsdelivr.net/gh/stdlib-js/namespace-standalone2pkg@v0.2.1-deno/mod.js';
 
 var list;
 var len;
