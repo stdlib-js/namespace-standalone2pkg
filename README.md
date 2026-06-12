@@ -166,7 +166,7 @@ npm install -g @stdlib/namespace-standalone2pkg-cli
 ### Usage
 
 ```text
-Usage: stdlib-standalone2pkg [options] <alias>
+Usage: stdlib-standalone2pkg [options] namespace-standalone2pkg
 
 Options:
 

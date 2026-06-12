@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-03)
+## Unreleased (2026-06-12)
 
 <section class="features">
 
@@ -30,6 +30,7 @@
 
 <details>
 
+-   [`aa763f8`](https://github.com/stdlib-js/stdlib/commit/aa763f8d006ece3648c9f8be16f26c9335f9fc78) - **docs:** correct CLI argument placeholder [(#12836)](https://github.com/stdlib-js/stdlib/pull/12836) _(by Philipp Burckhardt)_
 -   [`dfee746`](https://github.com/stdlib-js/stdlib/commit/dfee7462421d4117f86f91f175ff2391fb35012f) - **feat:** add `Uint64` to namespace _(by Athan Reines)_
 -   [`73eceba`](https://github.com/stdlib-js/stdlib/commit/73ecebacddec71de84b2bbf7200c18c6a052be72) - **feat:** add `truesLike` to namespace _(by Athan Reines)_
 -   [`acd9cb5`](https://github.com/stdlib-js/stdlib/commit/acd9cb534835702c42a2aae8f3c6f6ba6fd527a5) - **feat:** add `falsesLike` to namespace _(by Athan Reines)_
@@ -52,9 +53,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Philipp Burckhardt
 
 </section>
 
