@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-16)
+## Unreleased (2026-06-22)
 
 <section class="features">
 
@@ -30,6 +30,7 @@
 
 <details>
 
+-   [`aed59d8`](https://github.com/stdlib-js/stdlib/commit/aed59d8fb4f75747d24fef73037981716ca2da19) - **refactor:** update paths _(by Neeraj Pathak)_
 -   [`aae2976`](https://github.com/stdlib-js/stdlib/commit/aae2976d68e8b9177bf4f3c8123b0576c583ee8e) - **refactor:** update paths _(by Neeraj Pathak)_
 -   [`aa763f8`](https://github.com/stdlib-js/stdlib/commit/aa763f8d006ece3648c9f8be16f26c9335f9fc78) - **docs:** correct CLI argument placeholder [(#12836)](https://github.com/stdlib-js/stdlib/pull/12836) _(by Philipp Burckhardt)_
 -   [`dfee746`](https://github.com/stdlib-js/stdlib/commit/dfee7462421d4117f86f91f175ff2391fb35012f) - **feat:** add `Uint64` to namespace _(by Athan Reines)_
